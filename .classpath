@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Mounika/Software Testing/JAVA/hrms_frw/lib/testng-6.8.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
